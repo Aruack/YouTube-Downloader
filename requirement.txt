@@ -1,0 +1,8 @@
+# Main YouTube Downloader Library (Active fork of youtube-dl)
+yt-dlp>=2024.03.10
+
+# Optional dependencies for faster downloads and better performance
+requests>=2.31.0
+urllib3>=2.0.0
+brotli>=1.1.0
+websockets>=12.0
